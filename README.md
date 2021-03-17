@@ -1,5 +1,5 @@
 # Github-git-commands
-Simple git Cheatsheet
+##Simple git Cheatsheet
 * repo -> repository
 * `clone` -> bring a repo down from the internet (remote repository like Github) to your local machine
 * `add` -> track your files and changes with Git
